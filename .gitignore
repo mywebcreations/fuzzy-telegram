@@ -2,3 +2,6 @@
 /logs/*
 !/logs/README.md
 *.log
+/public/keep/*
+/public/tell.php
+/composer.lock
